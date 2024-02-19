@@ -1,1 +1,2 @@
-STRING-(კლიკები)
+mom ="salome"
+dad ="giorgi
