@@ -1,0 +1,2 @@
+print("me gavicani 2 adamiani dato da data iseni Wkvianebi arian da yvelas exmareba aseve megobrulebic arian")
+print("goa yvelaze kargi akademia yvelas exmarebian megobrulebic arian da liderebi da mini liderebi cdiloben ro yvelas daexmaron")
