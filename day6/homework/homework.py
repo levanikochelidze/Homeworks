@@ -1,0 +1,20 @@
+homework=1
+name=input("enter your name:")
+surname=input("enter your surname:")
+age=input("enter your age:")
+fro=input("enter where your from?:")
+profession=input("what is you profession?:")
+hobby=input("what is you hobby?:")
+print(name + " " +surname + " "+ age + " " +fro + " " +profession + " " + hobby)
+homework=2
+num1=int(("input(enter your first number "))
+num2=int(("input(enter your second number "))
+print(num1 - num2)
+print(num1 + num2)
+print(num1 * num2)
+print(num1 / num2)
+homework=3
+num1=int(("enter you age: "))
+num2=int(("enter you age: "))
+num3=int(("enter you age: "))
+print(num1 + 25 , num2 + 25 , + num3 + 25 )
