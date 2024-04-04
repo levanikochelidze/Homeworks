@@ -1,0 +1,8 @@
+</head>
+<body>
+    <h1>Hobby</h1>
+    <p><strong>Hobby:</strong>playing basketball</p>
+    <p><strong>Hobby Description:</strong>basket ball makes you strong, tall, and rich </p>
+    <button onclick="alert('You clicked the button!')">Click me</button>
+</body>
+</html>
