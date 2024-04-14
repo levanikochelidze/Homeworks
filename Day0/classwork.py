@@ -1,2 +1,0 @@
-mom ="salome"
-dad ="giorgi
